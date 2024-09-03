@@ -11,3 +11,8 @@ After that, `markdown` is usually used in readme files or documents to write nea
 Then, I made a `profile README` for the front page of the github profile, a place to write about biodata, skills, and projects that are displayed.
 
 Then the last one, I learned `text styling` so you can edit text so *italicized*, **bold**, ~~crossed out~~ and others.
+
+
+# What I am still confused about? 😵‍💫 #
+
+At first I was confused about how to save and upload the file because when I tried it, the result was fatal, but after consulting with the assistant and being taught by a friend, I was able to do it without any fatalities even though the flow was a little bit complex. 
